@@ -1,2 +1,5 @@
 site_name: Frabit
 site_url: https://frabitech.com/
+nav:
+    - Home: index.md
+    - About: about.md
