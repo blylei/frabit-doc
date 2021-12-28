@@ -1,5 +1,13 @@
-site_name: Frabit
+site_name: Frabit Docs
 site_url: https://frabitech.com/
 nav:
     - Home: index.md
     - About: about.md
+theme:
+    name: mkdocs
+    locale: zh_CN
+    shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
